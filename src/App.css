@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+video {
+  max-width: 70%;
+  border-radius: 1em;
+  box-shadow: 0 0 1em #00000022;
+}
